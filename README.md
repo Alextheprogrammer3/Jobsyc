@@ -1,6 +1,11 @@
 # JobSync Project Outline
+------
+---![Screenshot 2024-10-23 172209](https://github.com/user-attachments/assets/127e7977-3791-4088-9ce4-ac88307fd0b9)
+-----
 
-## Project Title
+## Paid Social Media Operations Project 
+
+
 **JobSync: Unlock Your Potential Without Missing a Beat**
 
 ---
@@ -109,12 +114,23 @@ At JobSync, we envision a world where every professional can explore career adva
 
 **Core Values**: Authenticity / Empowerment / Accessibility
 
-### Color Key
-- **Blue**: #4A90E2 (Trust, reliability)
-- **Green**: #7ED957 (Growth, opportunity)
-- **Gray**: #B0B3B8 (Professionalism, balance)
+### Color Key![Screenshot 2024-10-23 172246](https://github.com/user-attachments/assets/b020d5f9-45a7-4b2a-a19a-424660318d0e)
 
----
+- **Blue**: #4A90E2 (Trust, reliability)
+-
+- ![Screenshot 2024-10-23 172225](https://github.com/user-attachments/assets/3ea319fb-122d-4c45-a86c-b0431a57cf8c)
+
+- **Green**: #7ED957 (Growth, opportunity)
+- **Gray**: #B0B3B8 (Professionalism, balance)![Screenshot 2024-10-23 172314](https://github.com/user-attachments/assets/75147e90-ddd2-4da0-8666-483086ae6079)
+
+
+  ------
+  
+![Screenshot 2024-10-23 172339](https://github.com/user-attachments/assets/2b59f555-5df5-416b-be0a-b957da258051)
+
+
+
+![Screenshot 2024-10-23 172225](https://github.com/user-attachments/assets/267dc630-20e2-4677-bd46-336c4d2352c3)
 
 ## 8. Media Planning
 
