@@ -41,6 +41,8 @@ To develop a user-friendly platform that connects job seekers with tailored oppo
 
 ---
 
+
+
 ## 2. Competitive Landscape
 
 | Competitor               | Strengths                                   | Weaknesses                               |
@@ -103,7 +105,7 @@ JobSync positions itself as a user-friendly platform that connects job seekers w
 ### Who is JobSync?
 JobSync is a career resource platform that empowers employed individuals to discover flexible job opportunities while maintaining their current roles. Our focus is on providing essential tools and resources to navigate the job market seamlessly.
 
-![Screenshot 2024-10-23 172314](https://github.com/user-attachments/assets/75147e90-ddd2-4da0-8666-483086ae6079)
+![Screenshot 2024-10-23 172225](https://github.com/user-attachments/assets/fe2303bc-13ec-4149-ab48-9dd59c2042e3)
 
 
 ### Services
@@ -111,23 +113,21 @@ JobSync is a career resource platform that empowers employed individuals to disc
 - **Personalized Job Alerts**: Tailored notifications based on user profiles, skills, and preferences.
 - **Career Development Workshops**: Interactive sessions focusing on resume building, interview techniques, and job market trends.
 - **Resource Hub**: A comprehensive library of articles and guides to enhance job search skills.
+![Screenshot 2024-10-23 172246](https://github.com/user-attachments/assets/2da3cc1c-76c1-4476-8e04-a4a65d985e5a)
 
-![Screenshot 2024-10-23 172225](https://github.com/user-attachments/assets/267dc630-20e2-4677-bd46-336c4d2352c3)
+
 
 ### Vision
 At JobSync, we envision a world where every professional can explore career advancements without sacrificing their current commitments. We advocate for accessible career opportunities for all, especially those from underrepresented backgrounds.
 
 **Core Values**: Authenticity / Empowerment / Accessibility
-
-### Color Key![Screenshot 2024-10-23 172246](https://github.com/user-attachments/assets/b020d5f9-45a7-4b2a-a19a-424660318d0e)
--
-- ![Screenshot 2024-10-23 172225](https://github.com/user-attachments/assets/3ea319fb-122d-4c45-a86c-b0431a57cf8c)
+![Uploading Screenshot 2024-10-23 172301.png…]()
 
 
 
   ------
   
-![Screenshot 2024-10-23 172339](https://github.com/user-attachments/assets/2b59f555-5df5-416b-be0a-b957da258051)
+
 
 
 ## 8. Media Planning
